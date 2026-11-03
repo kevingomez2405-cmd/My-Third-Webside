@@ -1,0 +1,32 @@
+* {
+    box-sizing: border-box;
+    border: 3px solid rgb(0, 0, 0);
+}
+
+body {
+    padding: 0%;
+    margin: 0%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: rgb(255, 255, 255);
+
+}
+
+nav {
+    background-color: #fbff00;
+}
+
+main {
+    background-color: #b304f8;
+}
+
+section {
+    background-color: rgb(255, 230, 0);
+}
+
+footer {
+    background-color: rgb(181, 0, 253);
+}
+
+.altura {
+    height: 200px;
+}
